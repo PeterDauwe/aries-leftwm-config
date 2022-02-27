@@ -194,10 +194,16 @@ name = "LOCAL"
 definitions_version = 0
 
 [[repos.themes]]
-name = "db-scifi"
+name = "candy"
 version = "2.3.2"
 leftwm_versions = "*"
 current = false
+
+[[repos.themes]]
+name = "aries-db-zodiac"
+version = "2.3.2"
+leftwm_versions = "*"
+current = true
 
 [[repos]]
 url = "https://raw.githubusercontent.com/arcolinux/arcolinux-leftwm-themes/master/known.toml"
